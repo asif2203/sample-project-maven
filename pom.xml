@@ -41,7 +41,7 @@
         <plugins>
             <plugin>
                 <groupId>org.web3j</groupId>
-                <artifactId>web3j-maven-plugin</artifactId>
+                <artifactId>web3j-MAVENSAMPLE PROJECT1maven-plugin</artifactId>
                 <version>${web3j-maven-plugin.version}</version>
                 <configuration>
                     <soliditySourceFiles>
